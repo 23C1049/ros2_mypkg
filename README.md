@@ -1,3 +1,4 @@
+[![test](https://github.com/23C1049/ros2_mypkg/actions/workflows/test.yml/badge.svg)](https://github.com/23C1049/ros2_mypkg/actions/workflows/test.yml)
 # cigarettes_pub
 ## 概要
 このリポジトリ内のROS2パッケージには、タバコを吸った本数によって減少する寿命をパブリッシュするノードが含まれています。
